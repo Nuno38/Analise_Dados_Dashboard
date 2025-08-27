@@ -20,6 +20,7 @@ Facilitar a análise de dados de vendas e dar suporte a decisões estratégicas 
 
 
 <h3 src='https://1drv.ms/x/c/51f09ae6d25bc177/EWd4NPjHX4REoBwJDIrUAKMBJAqS0Y5YhvegsSdtnVCKRw?e=fzy7ux&nav=MTVfezIxMEYxNEVGLUMwQjctNDU5RC05RTA5LTMxMzBCQTQzMTRBNn0'>Clique aqui para acessar o arquivo na nuvem</h3>
+<br>
 <img src='https://github.com/Nuno38/Analise_Dados_Dashboard/blob/main/Images_Dasboard/Screenshot_11.png'></img>
 
 
