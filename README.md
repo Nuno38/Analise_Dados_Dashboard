@@ -2,7 +2,8 @@
 <h1><strong>Dashboard de Vendas</strong></h1>
 
 <h2>Este projeto apresenta um Dashboard de Vendas desenvolvido para acompanhamento de indicadores comerciais, oferecendo uma visão clara e objetiva do desempenho da empresa.</h2>
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 🚀 Funcionalidades
 - Visualização de **faturamento total**.  
 - Comparativo de **crescimento mensal/anual**.  
