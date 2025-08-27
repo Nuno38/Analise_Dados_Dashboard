@@ -5,14 +5,19 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 🚀 Funcionalidades
-- Visualização de **faturamento total**.  
-- Comparativo de **crescimento mensal/anual**.  
-- Indicadores de **top produtos e clientes**.  
-- Distribuição de **vendas por região**.  
-- Gráficos de **tendência de vendas**.  
+<br>
+- Visualização de faturamento total.
+<br>
+- Comparativo de crescimento mensal/anual.
+<br>
+- Indicadores de top produtos e clientes. 
+<br>
+- Distribuição de vendas por região.
+<br>
+- Gráficos de tendência de vendas.  
 
 ## 🛠️ Tecnologias Utilizadas
-- Excel / Power BI (especifique conforme for seu caso).  
+- Excel | Power query.  
 - ETL simples para tratamento de dados.  
 - Visualizações interativas.  
 
